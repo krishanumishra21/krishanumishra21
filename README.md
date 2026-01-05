@@ -22,11 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Krishanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&theme=tokyonight)
----
 
 ## 🚀 Featured Projects
 🔹 **JustUpload** – Static website hosting platform  
