@@ -13,11 +13,19 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript,React 
-- **Backend:** FastAPI, Node.js (Learning)  
-- **Database:** MongoDB ,SQL 
-- **Tools:** Git, GitHub, VS Code  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+![Krishanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&theme=tokyonight)
 ---
 
 ## 🚀 Featured Projects
