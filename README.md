@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science student (2nd Semester)
-- 🌐 Working with HTML, CSS, JavaScript, FastAPI & MongoDB
+- 🌐 Working with HTML, CSS, JavaScript,MYSQL FastAPI & MongoDB
 - 🧠 Learning MERN Stack & DSA
 - 🛠️ Building real-world projects & hackathon solutions
 
