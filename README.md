@@ -20,16 +20,21 @@
 
 ## 🧠 About Me
 
-> 🎓 B.Tech CSE student who turns caffeine into code  
-> 🔐 Building **SecureEdgeAI** — AI-powered security at the edge  
-> 🏥 Building **Aarogya** — digitizing healthcare access  
-> ⚡ Stack of choice: **MongoDB · Express · React · Node · FastAPI**  
-> 📬 Reach me at **mishrakrishanu57@gmail.com**  
+> 🎓 B.Tech CSE student who turns caffeine into code
+> 
+> 🔐 Building **SecureEdgeAI** — AI-powered security at the edge
+> 
+> 🏥 Building **Aarogya** — digitizing healthcare access
+> 
+> ⚡ Stack of choice: **MongoDB · Express · React · Node · FastAPI**
+> 
+> 📬 Reach me at **mishrakrishanu57@gmail.com**
+> 
 > 💡 Fun fact: *I debug with console.log and I'm not sorry* 😄
 
 ---
 
-## ⚡ TECH ARSENAL
+## ⚡ Tech Arsenal
 
 <div align="center">
 
@@ -62,7 +67,7 @@
 
 | 🔐 SecureEdgeAI | 🏥 Aarogya |
 |---|---|
-| AI-powered edge security — intelligent threat detection | Smart health-tech platform digitizing patient care |
+| AI-powered edge security — intelligent threat detection at the frontier | Smart health-tech platform digitizing patient care & healthcare access |
 | `FastAPI` `AI/ML` `Python` `Security` | `MongoDB` `Express` `React` `Node.js` |
 | [![Repo](https://img.shields.io/badge/View%20Repo-00fff0?style=flat-square&logo=github&logoColor=black)](https://github.com/krishanumishra21/SecureEdgeAI) | [![Repo](https://img.shields.io/badge/View%20Repo-ff79c6?style=flat-square&logo=github&logoColor=black)](https://github.com/krishanumishra21/aarogya) |
 
@@ -74,26 +79,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00fff0&icon_color=ff79c6&text_color=8be9fd&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00fff0&text_color=8be9fd"/>
+<!-- streak stats — hosted on demolab, very reliable -->
+<img src="https://streak-stats.demolab.com?user=krishanumishra21&theme=dracula&hide_border=true&background=0D1117&ring=00fff0&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=8be9fd&dates=6272a4" width="65%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=krishanumishra21&theme=dracula&hide_border=true&background=0D1117&ring=00fff0&fire=ff79c6&currStreakLabel=bd93f9&sideLabels=8be9fd&dates=6272a4" width="60%"/>
-
-<br/><br/>
-
+<!-- activity graph — vercel hosted, reliable -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanumishra21&theme=dracula&bg_color=0D1117&color=00fff0&line=bd93f9&point=ff79c6&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishanumishra21&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 
 </div>
 
