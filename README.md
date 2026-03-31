@@ -30,7 +30,7 @@
 > 
 > 📬 Reach me at **mishrakrishanu57@gmail.com**
 > 
-> 💡 Fun fact: *I debug with console.log and I'm not sorry* 😄
+> 💡 Fun fact:*I debug with console.log and I'm not sorry* 😄
 
 ---
 
