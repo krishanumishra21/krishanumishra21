@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-> 🎓 B.Tech CSE student who turns caffeine into code
+> 🎓 B.Tech CSE student who turns caffeine into code.
 > 
 > 🔐 Building **SecureEdgeAI** — AI-powered security at the edge
 > 
