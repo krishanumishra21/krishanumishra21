@@ -1,6 +1,6 @@
    <div align="center">   
    
-
+       
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2500&pause=800&color=00FFF0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=%3E+Initializing+Krishanu.exe...+%E2%9C%94;%3E+MERN+Stack+loaded+successfully...+%E2%9C%94;%3E+FastAPI+engine+online...+%E2%9C%94;%3E+Building+SecureEdgeAI+%F0%9F%94%90...+%E2%9C%94;%3E+Building+Aarogya+%F0%9F%8F%A5...+%E2%9C%94;%3E+Ready+to+ship.+%F0%9F%9A%80)](https://git.io/typing-svg)
  
