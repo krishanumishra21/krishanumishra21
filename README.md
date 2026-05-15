@@ -107,9 +107,7 @@ Modern healthcare platform focused on improving digital healthcare accessibility
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD93F9"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF"/>
 
 </div>
 
