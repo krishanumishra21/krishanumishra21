@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Krishanu.exe...;%3E+MERN+Stack+Loaded...;%3E+FastAPI+Engine+Online...;%3E+Building+SecureEdgeAI...;%3E+Building+Aarogya...;%3E+Ready+to+Ship+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?    font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+Krishanu.exe...;%3E+MERN+Stack+Loaded...;%3E+FastAPI+Engine+Online...;%3E+Building+SecureEdgeAI...;%3E+Building+Aarogya...;%3E+Ready+to+Ship+🚀)](https://git.io/typing-svg)
 
 <br/>
 
