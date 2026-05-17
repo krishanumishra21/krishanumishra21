@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Krishanu%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20AI%20Builder&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Krishanu%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign  Y=38&desc=Full%20Stack%20Developer%20|%20MERN%20|%20AI%20Builder&descAlignY=58"/>
 
 <div align="center">
 
