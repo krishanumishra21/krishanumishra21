@@ -3,7 +3,7 @@
 <br/>
    
 ```
-K R I S H A N U   M I S H R A 
+K R I S H A N U   M I S H R A   
 ```     
 
 *Full Stack Developer · MERN · AI Builder*
