@@ -10,7 +10,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-### `Full Stack Developer` &nbsp;·&nbsp; `MERN` &nbsp;·&nbsp; `AI Builder`
+### `Full Stack Developer` &nbsp;·&nbsp; `MERN` &nbsp;·&nbsp; `AI Builder` 
 
 <br/>
 
