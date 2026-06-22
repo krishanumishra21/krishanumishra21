@@ -1,185 +1,220 @@
-<div align="center"> 
+<div align="center">
 
-<br/>                                                                                                                        
-    
-``` 
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        K R I S H A N U   M I S H R A                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=8B6F47&center=true&vCenter=true&width=500&height=70&lines=Krishanu+Mishra;Full+Stack+Developer;AI+Builder" alt="Typing SVG" />
 
-### `Full Stack Developer` &nbsp;·&nbsp; `MERN` &nbsp;·&nbsp; `AI Builder` 
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=krishanumishra21&style=flat-square&color=B8966A&label=Profile+Views&labelColor=1A1814)](https://github.com/krishanumishra21)
-&nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/krishanumishra21?style=flat-square&color=B8966A&labelColor=1A1814&label=Followers)](https://github.com/krishanumishra21)
-&nbsp;&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✦-B8966A?style=flat-square&labelColor=1A1814)](mailto:mishrakrishanu57@gmail.com)
+<a href="mailto:mishrakrishanu57@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mishrakrishanu57@gmail.com-8B6F47?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1814" alt="Email">
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/krishanu-mishra-aa531b276">
+  <img src="https://img.shields.io/badge/LinkedIn-Krishanu%20Mishra-8B6F47?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1814" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/krishanumishra21">
+  <img src="https://img.shields.io/badge/GitHub-krishanumishra21-8B6F47?style=flat-square&logo=github&logoColor=white&labelColor=1a1814" alt="GitHub">
+</a>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=krishanumishra21&style=flat-square&color=8B6F47&label=Profile%20Views" alt="Profile Views">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/krishanumishra21?style=flat-square&color=8B6F47&labelColor=1a1814&label=Followers" alt="GitHub Followers">
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-8B6F47?style=flat-square&labelColor=1a1814" alt="Open to Work">
 
 </div>
 
 ---
 
-<br/>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrMELSlv/giphy.gif" width="28px" alt="wave"> About Me
+
+```
+🧑‍💻 Full Stack Developer with expertise in MERN stack, FastAPI & AI integrations
+📚 B.Tech in Computer Science Engineering
+🎯 Building intelligent, scalable solutions at the intersection of web & AI
+🚀 Passionate about clean code, system design & innovative problem-solving
+```
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEKLrBASOWyLmSm/giphy.gif" width="28px" alt="rocket"> Tech Arsenal
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 **Frontend**
+```
+⚛️  React & JavaScript
+🎯 HTML5 & Modern CSS3
+🔄 State Management
+📱 Responsive Design
+```
+
+</td>
+<td width="50%">
+
+### ⚙️ **Backend**
+```
+🟢 Node.js & Express.js
+🐍 FastAPI & Python
+🔐 RESTful APIs
+⚡ Real-time Systems
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ **Database**
+```
+📊 MongoDB
+📈 Data Modeling
+🔍 Query Optimization
+```
+
+</td>
+<td width="50%">
+
+### 🛠️ **Tools & Extras**
+```
+💻 C++ & DSA
+🔧 Git & GitHub
+📮 Postman & Testing
+🎨 VS Code
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### **[SecureEdgeAI](https://github.com/krishanumishra21/SecureEdgeAI)** 🔐
+*AI-powered edge security with intelligent threat detection & secure AI processing*
+
+![FastAPI](https://img.shields.io/badge/FastAPI-8B6F47?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B6F47?style=flat-square&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-8B6F47?style=flat-square&logo=tensorflow&logoColor=white)
+![Security](https://img.shields.io/badge/Cybersecurity-8B6F47?style=flat-square&logo=lock&logoColor=white)
+
+---
+
+### **[Aarogya](https://github.com/krishanumishra21/aarogya)** 🏥
+*Modern healthcare platform improving digital accessibility & patient management*
+
+![MongoDB](https://img.shields.io/badge/MongoDB-8B6F47?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-8B6F47?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-8B6F47?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-8B6F47?style=flat-square&logo=node.js&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Currently Learning
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                         PROFILE                             │
-├──────────────────────────┬──────────────────────────────────┤
-│  Role                    │  Full Stack Developer            │
-│  Education               │  B.Tech — CSE                   │
-│  Focus                   │  MERN · FastAPI · AI Apps        │
-│  Currently Building      │  SecureEdgeAI · Aarogya          │
-└──────────────────────────┴──────────────────────────────────┘
+├─ 📐 Advanced MERN Architecture & Scalability
+├─ 🧮 Data Structures & Algorithms with C++
+├─ 🤖 LLM APIs & Generative AI Integrations
+├─ 🏗️ System Design & Microservices
+└─ 🎯 Competitive Programming & Hackathons
 ```
 
 </div>
 
-<br/>
-
 ---
 
-## ⬡ &nbsp; Tech Stack
-
-<br/>
-
-```
-  FRONTEND    ──────────────────────────────────────────────
-              React · JavaScript · HTML · CSS
-
-  BACKEND     ──────────────────────────────────────────────
-              Node.js · Express · FastAPI · Python
-
-  DATABASE    ──────────────────────────────────────────────
-              MongoDB
-
-  SYSTEMS     ──────────────────────────────────────────────
-              C++ · Data Structures & Algorithms
-
-  TOOLING     ──────────────────────────────────────────────
-              Git · GitHub · Postman · VS Code
-```
-
-<br/>
-
----
-
-## ◈ &nbsp; Selected Work
-
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| &nbsp; | Project | Description | Tags |
-|:---:|:---|:---|:---|
-| 🔐 | **[SecureEdgeAI](https://github.com/krishanumishra21/SecureEdgeAI)** | AI-powered edge security with intelligent threat detection & secure AI processing at the edge | `FastAPI` `Python` `AI/ML` `Cybersecurity` |
-| 🏥 | **[Aarogya](https://github.com/krishanumishra21/aarogya)** | Modern healthcare platform improving digital accessibility & patient management | `MongoDB` `Express` `React` `Node.js` |
-
-</div>
-
-<br/>
-
----
-
-## ◎ &nbsp; Currently Studying
-
-<br/>
-
-```
-  ▸  Advanced MERN Architecture
-  ▸  DSA with C++
-  ▸  AI Integrations & LLM APIs
-  ▸  Hackathon Projects & System Design
-```
-
-<br/>
-
----
-
-## ◉ &nbsp; Analytics
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=graywhite&hide_border=true&title_color=B8966A&icon_color=B8966A&text_color=1A1814&bg_color=FAF8F4&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&hide_border=true&title_color=B8966A&text_color=1A1814&bg_color=FAF8F4" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=graywhite&hide_border=true&title_color=8B6F47&icon_color=8B6F47&text_color=1A1814&bg_color=FAF8F4&rank_icon=github" height="180" alt="GitHub Stats"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=krishanumishra21&theme=graywhite&hide_border=true&background=FAF8F4&ring=B8966A&fire=B8966A&currStreakLabel=B8966A&sideLabels=7A7268&dates=7A7268&currStreakNum=1A1814&sideNums=1A1814"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&hide_border=true&title_color=8B6F47&text_color=1A1814&bg_color=FAF8F4" height="180" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=krishanumishra21&theme=graywhite&hide_border=true&background=FAF8F4&ring=8B6F47&fire=8B6F47&currStreakLabel=8B6F47&sideLabels=7A7268&dates=7A7268&currStreakNum=1A1814&sideNums=1A1814" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanumishra21&theme=minimal&hide_border=true&bg_color=FAF8F4&color=7A7268&line=B8966A&point=1A1814&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanumishra21&theme=minimal&hide_border=true&bg_color=FAF8F4&color=7A7268&line=8B6F47&point=1A1814&area=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-<br/>
-
 ---
 
-## ✦ &nbsp; Trophies
-
-<br/>
+## 🎖️ Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishanumishra21&theme=flat&no-frame=true&row=1&column=6&title_color=B8966A&icon_color=B8966A&text_color=1A1814&bg_color=FAF8F4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=krishanumishra21&theme=flat&no-frame=true&row=1&column=6&title_color=8B6F47&icon_color=8B6F47&text_color=1A1814&bg_color=FAF8F4" alt="GitHub Trophies"/>
 
 </div>
 
-<br/>
-
 ---
 
-## ⟳ &nbsp; Contribution Activity
-
-<br/>
+## 🐍 Contribution Visualization
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+## 💡 Philosophy
 
 <div align="center">
 
 ```
-  ╔════════════════════════════════════════════════════════╗
-  ║                                                        ║
-  ║    "First, solve the problem. Then, write the code."   ║
-  ║                                                        ║
-  ╚════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║     First, solve the problem.                          ║
+║     Then, write the code.                              ║
+║     Finally, ship it with confidence.                  ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-1A1814?style=for-the-badge&logo=gmail&logoColor=B8966A)](mailto:mishrakrishanu57@gmail.com)
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing Together!
+
+<a href="mailto:mishrakrishanu57@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-8B6F47?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1814?style=for-the-badge&logo=linkedin&logoColor=B8966A)](https://www.linkedin.com/in/krishanu-mishra-aa531b276)
+<a href="https://linkedin.com/in/krishanu-mishra-aa531b276">
+  <img src="https://img.shields.io/badge/LinkedIn-8B6F47?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-1A1814?style=for-the-badge&logo=github&logoColor=B8966A)](https://github.com/krishanumishra21)
+<a href="https://github.com/krishanumishra21">
+  <img src="https://img.shields.io/badge/GitHub-8B6F47?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-<br/>
+<br/><br/>
 
-<sub>Designed with intent · Built with purpose</sub>
-
-<br/>
+<sub>✨ Designed with intent • Built with purpose • Created with ❤️ </sub>
 
 </div>
