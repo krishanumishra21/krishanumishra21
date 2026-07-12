@@ -105,16 +105,6 @@ Full Stack Developer with hands-on expertise in the **MERN stack**, **FastAPI**,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/krishanumishra21/krishanumishra21/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>✨ Auto-generates once you add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — see notes below.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
-
 ## 📚 Currently Learning
 
 ```
