@@ -1,6 +1,6 @@
 <div align="center">
 
-<img  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=220&section=header&text=Krishanu%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=220&section=header&text=Krishanu%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
@@ -32,12 +32,12 @@
 
 ## 👋 About Me
 
-Full Stack Developer with hands-on expertise in the **MERN stack**, **FastAPI**, and **AI integrations**. B.Tech in Computer Science Engineering, focused on building intelligent, scalable solutions at the intersection of web development and AI — with a strong foundation in clean code, system design, and problem-solving.
+I'm a Full Stack Developer with hands-on experience across the **MERN stack**, **FastAPI**, and **AI integrations**. I hold a B.Tech in Computer Science Engineering and love building intelligent, scalable software at the intersection of web development and AI — backed by a strong foundation in clean code, system design, and problem-solving.
 
 ```yaml
 🎯  Currently building: AI-powered, production-grade applications
 🌱  Currently learning: System design & microservices
-🤝  Open to: Collaborating on full-stack and AI/ML projects
+🤝  Open to: Full-stack and AI/ML collaborations
 💬  Ask me about: React, Node.js, FastAPI, MongoDB
 ⚡  Fun fact: I ship first, sleep later
 ```
