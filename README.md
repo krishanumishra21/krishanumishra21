@@ -1,162 +1,196 @@
-<div align="center">
+# 👋 Hey, I'm Krishanu Mishra!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=220&section=header&text=Krishanu%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Krishanu+Mishra+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;C%2B%2B+%26+DSA+Learner+%F0%9F%A7%A0;Building+Projects+That+Solve+Problems+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" alt="Developer animation" />
+</p>
 
-<a href="mailto:mishrakrishanu57@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mishrakrishanu57@gmail.com-00B4D8?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/krishanu-mishra-aa531b276">
-  <img src="https://img.shields.io/badge/LinkedIn-Krishanu%20Mishra-00B4D8?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/krishanumishra21">
-  <img src="https://img.shields.io/badge/GitHub-krishanumishra21-00B4D8?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub">
-</a>
+<p align="center">
+  <a href="https://github.com/krishanumishra21">
+    <img src="https://img.shields.io/badge/GitHub-KrishanuMishra21-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://krishanu-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/krishanu-mishra-aa531b276">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-<br/><br/>
+---
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00B4D8?style=for-the-badge&labelColor=0D1117" alt="Open to Work">
+## 🚀 About Me
 
-<br/><br/>
+- 🎓 Computer Science Engineering student at CGC University, Mohali.
+- 💻 Interested in **Backend Development, AI Engineering, and Software Development**.
+- 🧠 Practicing Data Structures and Algorithms using C++.
+- 🤖 Exploring LLMs, AI-powered applications, APIs, and automation.
+- 🛠️ Building projects that solve real-world problems.
+- 🌐 Portfolio: [krishanu-dev.vercel.app](https://krishanu-dev.vercel.app/)
+- 🤝 Actively involved in developer communities and technical events.
+- 🎯 Goal: Become a strong software engineer and build useful, scalable products.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+with+the+MERN+stack;Turning+ideas+into+scalable+software;Always+shipping%2C+always+learning;Let's+build+something+great+together!" alt="Typing SVG" />
-</a>
+---
 
-</div>
+## 🧑‍💻 What I'm Working On
 
-<br/>
+- 📚 Improving problem-solving skills through DSA and LeetCode.
+- ⚙️ Building backend applications using Python, FastAPI, Node.js, and databases.
+- 🤖 Exploring AI integrations, LLM-powered tools, and automation.
+- 🚀 Developing projects that combine backend engineering with practical AI use cases.
 
-## 👋 About Me
+---
 
-I'm a Full Stack Developer with hands-on experience across the **MERN stack**, **FastAPI**, and **AI integrations**. I hold a B.Tech in Computer Science Engineering and love building intelligent, scalable software at the intersection of web development and AI — backed by a strong foundation in clean code, system design, and problem-solving.
+## 🛠️ Tech Stack
 
-```yaml
-🎯  Currently building: AI-powered, production-grade applications
-🌱  Currently learning: System design & microservices
-🤝  Open to: Full-stack and AI/ML collaborations
-💬  Ask me about: React, Node.js, FastAPI, MongoDB
-⚡  Fun fact: I ship first, sleep later
-```
+### 💻 Programming Languages
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-## 🛠️ Tech Arsenal
+### ⚙️ Backend Development
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
 
-**Frontend**
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
 
-<br/><br/>
+### 🤖 AI & Developer Tools
 
-**Backend**
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" />
+### 🌐 Web Technologies
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-**Database & Tools**
+---
 
-<img src="https://skillicons.dev/icons?i=mongodb,cpp,git,github,postman,vscode&theme=dark" />
+## 🚀 Featured Projects
 
-</div>
+### 1. 🏥 TrustMed
+A healthcare-focused project designed to manage patient, doctor, and hospital records.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
+**Focus:** Healthcare technology, backend development, and data management.
 
-## 🏆 Featured Projects
+### 2. 📊 Whats2Excel
+A Chrome extension and desktop agent project designed to export WhatsApp chat data into Excel spreadsheets.
 
-<div align="center">
+**Focus:** Python, FastAPI, automation, Excel processing, and API integration.
 
-<a href="https://github.com/krishanumishra21/SecureEdgeAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanumishra21&repo=SecureEdgeAI&theme=dark&bg_color=0D1117&title_color=00B4D8&text_color=c9d1d9&border_color=00B4D8&icon_color=00B4D8" />
-</a>
-<a href="https://github.com/krishanumishra21/aarogya">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishanumishra21&repo=aarogya&theme=dark&bg_color=0D1117&title_color=00B4D8&text_color=c9d1d9&border_color=00B4D8&icon_color=00B4D8" />
-</a>
+### 3. 👷 Sahyog
+A gig-platform project designed to connect workers with work opportunities.
 
-</div>
+**Focus:** Web development and practical problem-solving.
 
-- 🔐 **[SecureEdgeAI](https://github.com/krishanumishra21/SecureEdgeAI)** — AI-powered edge security with intelligent threat detection and secure AI processing.
-- 🏥 **[Aarogya](https://github.com/krishanumishra21/aarogya)** — Modern healthcare platform improving digital accessibility and patient management.
+### 4. 🧩 FavGen
+A VS Code extension project focused on generating favicons for developers.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
+**Focus:** Developer productivity and tooling.
 
-## 📊 GitHub Stats
+### 5. 🧠 AntarMan AI
+An AI research project exploring dynamic LLM personalities and their evolution.
 
-<div align="center">
+**Focus:** LLMs, AI research, and experimentation.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=dark&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&border_color=00B4D8&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&theme=dark&bg_color=0D1117&title_color=00B4D8&text_color=c9d1d9&border_color=00B4D8&hide_border=false"/>
+> Explore more projects on my [GitHub profile](https://github.com/krishanumishra21).
 
-<br/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanumishra21&theme=dark&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&border=00B4D8&hide_border=false" alt="streak stats"/>
+## 📈 My DSA Journey
 
-<br/><br/>
+- 💡 Language: C++
+- 🧠 Focus areas: Recursion, Backtracking, Arrays, Strings, Trees, Graphs, Dynamic Programming, and Greedy Algorithms.
+- 🔥 Practicing problem-solving consistently on LeetCode.
+- 🎯 Goal: Strengthen problem-solving fundamentals and prepare for software engineering placements.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanumishra21&theme=react-dark&bg_color=0D1117&color=00B4D8&line=00B4D8&point=ffffff&area=true&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/krishanumishra21?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
+## 📊 GitHub Statistics
 
-## 📚 Currently Learning
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=krishanumishra21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Krishanu's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishanumishra21&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
 
-```
-├─ Advanced MERN Architecture & Scalability
-├─ Data Structures & Algorithms with C++
-├─ LLM APIs & Generative AI Integrations
-├─ System Design & Microservices
-└─ Competitive Programming & Hackathons
-```
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krishanumishra21&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
 
-## 💡 Philosophy
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishanumishra21&theme=tokyonight" alt="GitHub Profile Summary"/>
+</p>
 
-<div align="center">
+---
 
-```
-╔══════════════════════════════════════════════╗
-║                                                ║
-║     First, solve the problem.                 ║
-║     Then, write the code.                      ║
-║     Finally, ship it with confidence.          ║
-║                                                ║
-╚══════════════════════════════════════════════╝
-```
+## 🤝 Community & Leadership
 
-</div>
+- 🌐 Community Outreach Lead — GDG Cloud Chandigarh.
+- 🛠️ Event Head — Bug2Build.
+- 💡 Previously involved in developer communities, technical events, and student initiatives.
+- 🚀 Interested in organizing technical events, connecting developers, and helping communities grow.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00B4D8&height=3&width=100%" width="100%"/>
+---
 
-<div align="center">
+## 🌐 Connect With Me
 
-### 🤝 Let's Connect & Build Something Amazing Together!
+<p align="center">
+  <a href="https://github.com/krishanumishra21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/krishanu-mishra-aa531b276">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://krishanu-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-<a href="mailto:mishrakrishanu57@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-00B4D8?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Gmail">
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/krishanu-mishra-aa531b276">
-  <img src="https://img.shields.io/badge/LinkedIn-00B4D8?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/krishanumishra21">
-  <img src="https://img.shields.io/badge/GitHub-00B4D8?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub">
-</a>
+---
 
-<br/><br/>
+## 💭 Developer Quote
 
-<img src="https://komarev.com/ghpvc/?username=krishanumishra21&label=Profile%20Views&color=00B4D8&style=for-the-badge&labelColor=0D1117" alt="profile views"/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+</p>
 
-<br/><br/>
+---
 
-<sub>✨ Designed in black & blue • Built with purpose • Created with ❤️</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00B4D8,100:0D1117&height=120&section=footer" width="100%"/>
+<p align="center">
+  <b>💻 Code. Learn. Build. Repeat. 🚀</b>
+  <br/>
+  Thanks for visiting my profile! ⭐
+</p>
