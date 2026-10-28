@@ -30,7 +30,7 @@
 - 🧠 Practicing Data Structures and Algorithms using C++.
 - 🤖 Exploring LLMs, AI-powered applications, APIs, and automation.
 - 🛠️ Building projects that solve real-world problems.
-- 🌐 Portfolio: [krishanu-dev.vercel.app](https://krishanu-dev.vercel.app/)
+- 🌐 Portfolio: [krishanu.space](https://krishanu.space)
 - 🤝 Actively involved in developer communities and technical events.
 - 🎯 Goal: Become a strong software engineer and build useful, scalable products.
 
